@@ -30,8 +30,12 @@ Individual APIs and corresponding __build.gradle__ descriptions.
 
 | Samsung Service API | Description in build.gradle  | 
 |:-----:|---|
-| Acessory  | com.github.oceanbrasil:samsung-services-accesory-sdk:2.5.1 |
-| Camera    | com.github.oceanbrasil:samsung-services-camera-sdk:1.2.2  |
+| Acessory   | com.github.oceanbrasil:samsung-services-accesory-sdk:2.5.1  |
+| Camera     | com.github.oceanbrasil:samsung-services-camera-sdk:1.2.2    |
+| Edge(look) | com.github.oceanbrasil:samsung-services-edge-look:1.4.0     |
+| Motion     | com.github.oceanbrasil:samsung-services-motion:2.2.1        |
+| MultiWindow| com.github.oceanbrasil:samsung-services-multiwindow:1.3.2   |
+
 
 ## How it works
 
