@@ -35,6 +35,11 @@ Individual APIs and corresponding __build.gradle__ descriptions.
 | [Edge(look)](https://github.com/oceanbrasil/samsung-services-edge-look)   | com.github.oceanbrasil:samsung-services-edge-look:1.4.0     |
 | [Motion](https://github.com/oceanbrasil/samsung-services-motion)          | com.github.oceanbrasil:samsung-services-motion:2.2.1        |
 | [MultiWindow](https://github.com/oceanbrasil/samsung-services-multiwindow)| com.github.oceanbrasil:samsung-services-multiwindow:1.3.2   |
+| [Pass](http://developer.samsung.com/galaxy/pass)| com.github.oceanbrasil:samsung-services-pass:1.2.2   |
+| [Professional Audio](http://developer.samsung.com/galaxy/professional-audio)| com.github.oceanbrasil:samsung-services-professional-audio:2.1.5  |
+| [Pen full](http://developer.samsung.com/galaxy/pen)| com.github.oceanbrasil:samsung-services-pen-full:4.1.2  |
+| [Pen light](http://developer.samsung.com/galaxy/pen)| com.github.oceanbrasil:samsung-services-pen-light:4.1.2  |
+| [Rich Notification](http://developer.samsung.com/galaxy/rich-notification)| com.github.oceanbrasil:samsung-services-rich-notification:1.1.3  |
 
 
 ## How it works
